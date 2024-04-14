@@ -1,0 +1,7 @@
+E:\Programming\C#\EnglishQuiz\bin\Debug\EnglishQuiz.exe.config
+E:\Programming\C#\EnglishQuiz\bin\Debug\EnglishQuiz.exe
+E:\Programming\C#\EnglishQuiz\bin\Debug\EnglishQuiz.pdb
+E:\Programming\C#\EnglishQuiz\obj\Debug\EnglishQuiz.csproj.AssemblyReference.cache
+E:\Programming\C#\EnglishQuiz\obj\Debug\EnglishQuiz.csproj.CoreCompileInputs.cache
+E:\Programming\C#\EnglishQuiz\obj\Debug\EnglishQuiz.exe
+E:\Programming\C#\EnglishQuiz\obj\Debug\EnglishQuiz.pdb
